@@ -7,19 +7,19 @@ const projects = [
     title: "Project One",
     description: "Todo-App",
     image: "/images/2.jpeg",
-    link: "https://todo-51fp-git-main-arpita-vijayvergiyas-projects.vercel.app"
+    link: "https://to-do-xi-jet.vercel.app/"
   },
   {
     title: "Project Two",
     description: "StopWatch",
     image: "/images/3.jpeg",
-    link: "https://stop-watch-git-main-arpita-vijayvergiyas-projects.vercel.app/"
+    link: "https://stopwatch-ochre-iota.vercel.app/"
   },
   {
     title: "Project Three",
     description: "Weather-App",
     image: "/images/1.jpeg",
-    link: "https://weather-git-main-arpita-vijayvergiyas-projects.vercel.app"
+    link: "https://weatherr-rouge.vercel.app/"
   },
 ];
 
